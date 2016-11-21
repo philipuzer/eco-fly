@@ -7,6 +7,7 @@ $(document).ready(function(){
 		autoplaySpeed: 2500,
 		speed: 2500,
 		fade: true
+
 	});
 
 

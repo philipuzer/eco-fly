@@ -15,10 +15,3 @@
 </div>
 {% endfor %}
 {% endmacro %}
-{% macro menuHeader(menu, act) %}
-<ul class="menu">
-	{% for i in menu %}
-		<li><a {% if loop.index == act %} class="active" {% endif %} href="{{i.link}}">{{i.name}}</a></li>
-		{% endfor %}
-</ul>
-{% endmacro %}
