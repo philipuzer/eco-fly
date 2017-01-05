@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="59296daa-bfcf-45e5-bf42-56be9f903545" name="Smile54" url="http://smile54.ru">
+        <fileTransfer host="smile54.ru" port="22" rootFolder="/home/m/mrphill/smile54.ru/public_html/" accessType="SFTP" username="mrphill">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
