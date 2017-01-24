@@ -9,6 +9,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="90a55cb1-8834-4dd9-a667-30b8486b0d8d" name="crematori-nsk.wordpress" url="http://crematori-nsk.wordpress">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
