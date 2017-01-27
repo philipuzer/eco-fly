@@ -12,6 +12,14 @@
       <webServer id="90a55cb1-8834-4dd9-a667-30b8486b0d8d" name="crematori-nsk.wordpress" url="http://crematori-nsk.wordpress">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="077e4708-c4b5-4f0c-a774-e22104ea88c7" name="crematori-nsk.ru" url="http://crematori-nsk.ru">
+        <fileTransfer host="crematori-nsk.ru" port="21" rootFolder="/crematori-nsk.ru" password="df9bdf9adf98df9adf99df9adf9fdf9adfe7dfdfdfd9dfcfdfc3" username="cw96693">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
