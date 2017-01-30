@@ -20,6 +20,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="3f3f2374-2002-43bb-82ba-3e8a8fa90060" name="eco-fly.local" url="http://eco-fly.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
