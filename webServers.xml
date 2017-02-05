@@ -23,6 +23,14 @@
       <webServer id="3f3f2374-2002-43bb-82ba-3e8a8fa90060" name="eco-fly.local" url="http://eco-fly.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="5f021fdf-e8b7-4c7c-b950-d2b01569ead0" name="funeral-nsk" url="http://funeral-nsk.ru">
+        <fileTransfer host="funeral-nsk.ru" port="21" username="cf57438">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
